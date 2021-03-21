@@ -92,13 +92,7 @@ nav ul li a {
   outline: none;
   margin: 0px 10px;
 }
-.text-container {
-  position: relative;
-  left: 13%;
-  top: 42%;
-  transform: translate(-13%, -42%);
-  
-}
+
 
 
 .about-container {
